@@ -1,0 +1,9 @@
+Belgrade.jpg:
+	authour : Lawrence Jesterton
+	license : Creative Commons Attribution-Share Alike 3.0 Unported
+	source  : http://www.fotopedia.com/items/vYkSoW6BM38-EvSnq9UFAj8
+
+Moscow.jpg:
+	authour : Sergei Alekseev
+	license : Creative Commons Attribution 3.0 Unported
+	source  : https://web.archive.org/web/20161020035955/http://www.panoramio.com/photo/68342241
