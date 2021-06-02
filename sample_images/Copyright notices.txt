@@ -1,9 +1,24 @@
 Belgrade.jpg:
-	authour : Lawrence Jesterton
+	author  : Lawrence Jesterton
 	license : Creative Commons Attribution-Share Alike 3.0 Unported
 	source  : http://www.fotopedia.com/items/vYkSoW6BM38-EvSnq9UFAj8
 
+London.jpg:
+	author  : Allen Watkin
+	license : Creative Commons Attribution-Share Alike 2.0 Generic
+	source  : https://www.flickr.com/photos/allenthepostman/3071109121/
+
 Moscow.jpg:
-	authour : Sergei Alekseev
+	author  : Sergei Alekseev
 	license : Creative Commons Attribution 3.0 Unported
 	source  : https://web.archive.org/web/20161020035955/http://www.panoramio.com/photo/68342241
+
+Nagoya.jpg:
+	author  : Kowoda
+	license : Creative Commons Attribution-Share Alike 4.0 International
+	source  : https://commons.wikimedia.org/wiki/File:Takisada_Nagoya_Building.jpg
+
+SaoPaulo.jpg:
+	author  : Wilfredor
+	license : Creative Commons CC0 1.0 Universal Public Domain Dedication
+	source  : https://commons.wikimedia.org/wiki/File:Conde_de_Prates_Building_(FELIPE_MOSTARDA).jpg
