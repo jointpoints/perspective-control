@@ -3,11 +3,6 @@ Belgrade.jpg:
 	license : Creative Commons Attribution-Share Alike 3.0 Unported
 	source  : http://www.fotopedia.com/items/vYkSoW6BM38-EvSnq9UFAj8
 
-London.jpg:
-	author  : Allen Watkin
-	license : Creative Commons Attribution-Share Alike 2.0 Generic
-	source  : https://www.flickr.com/photos/allenthepostman/3071109121/
-
 Moscow.jpg:
 	author  : Sergei Alekseev
 	license : Creative Commons Attribution 3.0 Unported
