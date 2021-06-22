@@ -3,6 +3,16 @@ Belgrade.jpg:
 	license : Creative Commons Attribution-Share Alike 3.0 Unported
 	source  : http://www.fotopedia.com/items/vYkSoW6BM38-EvSnq9UFAj8
 
+Canberra.jpg
+	author  : Bidgee
+	license : Creative Commons Attribution-ShareAlike 3.0 Unported
+	source  : https://commons.wikimedia.org/wiki/File:Lovett_Tower_in_Woden_Town_Centre.jpg
+
+Johannesburg.jpg
+	author  : unknown
+	license : unknown
+	source  : https://answersafrica.com/wp-content/uploads/2013/10/The-Carlton-Centre.jpg
+
 Moscow.jpg:
 	author  : Sergei Alekseev
 	license : Creative Commons Attribution 3.0 Unported
