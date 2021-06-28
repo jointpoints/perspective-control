@@ -14,3 +14,13 @@ A simple Python tool to automatically eliminate vanishing points on images. The 
 |                        Before                         |                              After                             |
 |-------------------------------------------------------|----------------------------------------------------------------|
 | ![Before correction](sample_images/SaoPaulo_demo.jpg) | ![After correction](sample_images/SaoPaulo_corrected_demo.jpg) |
+
+## Run the tool
+
+### On Windows
+
+    python .\fixbuilding.py
+
+### On Linux/MacOS
+
+    python ./fixbuilding.py
