@@ -4,7 +4,8 @@ __author__ = 'Andrei Eliseev'
 
 
 
-import sys
+from sys import argv
+from os import sep
 import perspective_control.verbosity
 
 
@@ -13,9 +14,9 @@ import perspective_control.verbosity
 
 if __name__ == '__main__':
 	# 1. Process arguments
-	helpline = 'USAGE:\n\tfixbuilding <image_path> [-ov]\nWHERE:\n\t<image_path> : a path to image of a building;\n\t-o           : show original image in final result demonstration.\n\t-v           : switch on verbosity.\n'
+	helpline = 'USAGE:\n\tpython .' + sep + 'fixbuilding.py <image_path> [-ov]\nWHERE:\n\t<image_path> : a path to image of a building;\n\t-o           : show original image in final result demonstration.\n\t-v           : switch on verbosity.\n'
 	verbosity_label_capacity = 51
-	args = set(sys.argv[1:])
+	args = set(argv[1:])
 	if len(args) == 0:
 		print(helpline)
 		exit()
